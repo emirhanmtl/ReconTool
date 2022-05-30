@@ -3,7 +3,8 @@ ReconTool,  crt.sh, httprobe ve aquatone kullanilarak sürecin otomatize edilmes
 
 ## [Kullanımı]
 Sisteminizde httprobe ve aquatone araçlarının kurulu olduğundan emin olun.
-`git clone https://github.com/emirhanmtl/ReconTool.git` komutu ile aracı sisteminize indirin. Daha sonrasında `python ReconTool.py` komutu ile kullanmaya başlayabilirsiniz.
+`git clone https://github.com/emirhanmtl/ReconTool.git` komutu ile aracı sisteminize indirin. 
+Daha sonrasında `python ReconTool.py` komutu ile kullanmaya başlayabilirsiniz.
 
 
 # [EN]
@@ -11,4 +12,5 @@ ReconTool is a simple tool for automating the process using crt.sh, httprobe and
 
 ## [Usage]
 Make sure you have httprobe and aquatone tools installed on your system.
-Download the tool to your system with the `git clone https://github.com/emirhanmtl/ReconTool.git` command. Then you can start using it with the `python ReconTool.py` command.
+Download the tool to your system with the `git clone https://github.com/emirhanmtl/ReconTool.git` command. 
+Then you can start using it with the `python ReconTool.py` command.
