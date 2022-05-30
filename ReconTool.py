@@ -3,7 +3,7 @@ import os
 banner = '''
 
 
-                                Welcome to my SubdomainFinder
+                                Welcome to my ReconTool
 
 
 
